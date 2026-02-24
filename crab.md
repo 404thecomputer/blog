@@ -4,7 +4,7 @@ title: Crab
 permalink: /crab/
 ---
 
-### Crabs are my favorite animal and here is why (h3)
+### Crabs are my favorite animal and here is why
 
 - They skitter around a lot
 - They have fun shapes and cool claws
