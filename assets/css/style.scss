@@ -14,7 +14,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
-h1 {
+h1, h2, h3 {
   color: lime;
 }
 
@@ -28,10 +28,36 @@ a {
   color: blueviolet;
 }
 
+div.nav-items {
+  color: lime;
+}
+
+li.p-name {
+  color: lightgray;
+}
+
 .site-header {
   background-color: #290244;
 }
 
+.footer-col {
+  p{
+    color: lightgray
+  }
+}
+
 .site-title {
+  color: lime;
+}
+
+span {
+  color: lightgray;
+}
+
+.post-meta {
+  color: lightgray;
+}
+
+.post-link {
   color: lime;
 }
