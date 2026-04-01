@@ -26,10 +26,13 @@ body {
 
 a {
   color: blueviolet;
+  &:visited {
+    color: mediumslateblue;
+  }
 }
 
-div.nav-items {
-  color: lime;
+.site-nav.nav-item {
+  color: chartreuse;
 }
 
 li.p-name {
@@ -47,7 +50,9 @@ li.p-name {
 }
 
 .site-title {
-  color: lime;
+  &:visited{
+    color: lime;
+  }
 }
 
 span {
