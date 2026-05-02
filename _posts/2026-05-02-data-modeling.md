@@ -13,11 +13,11 @@ title: Lab 6 -  Data Modeling
 
 ## Entity Relationship Diagram
 
-
+![Entity Relationship Diagram]({{ '/assets/erd.png' | relative_url }})
 
 ## SQL Schema
 
-
+![SQL Schema]({{ '/assets/sql.png' | relative_url }})
 
 ## Reflection
 
